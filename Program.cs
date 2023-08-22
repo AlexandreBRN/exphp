@@ -102,7 +102,6 @@
     //}
 //}
 
-using System;
 
 //namespace ExemploLargura
 //{
